@@ -19,17 +19,17 @@ Bienvenido a mi portafolio de la Unidad 1. Aquí encontrarás mis trabajos y pro
 ---
 
 ### Descripción del Proyecto
-Bienvenido a mi portafolio de la Unidad 1. Aquí encontrarás mis trabajos, códigos y organizadores gráficos sobre los fundamentos de la computación.
+Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis trabajos, códigos y organizadores gráficos sobre los fundamentos de la computación.
 
 </div>
 ---
 ###CONTENIDOS 
-**ALGORITMOS 
-**PSEUDOCÓDIGOS 
-**DIAGRAMA DE FLUJO 
-**PRUEBA DE ESCRITORIO 
-**LENGUAJE DE PROGRAMACIÓN
-**POGRAMACIÓN POR BLOQUES 
+**ALGORITMOS** 
+**PSEUDOCÓDIGOS** 
+**DIAGRAMA DE FLUJO**
+**PRUEBA DE ESCRITORIO** 
+**LENGUAJE DE PROGRAMACIÓN**
+**POGRAMACIÓN POR BLOQUES**
 
 
 
