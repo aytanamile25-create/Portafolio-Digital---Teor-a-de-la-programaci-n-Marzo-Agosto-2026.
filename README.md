@@ -17,15 +17,6 @@ Bienvenido a mi portafolio de la Unidad 1. Aquí encontrarás mis trabajos y pro
 **Fecha:** 2026
 
 ---
-##1. Algoritmos:
-
-* **¿Qué son los Algoritmos?:**
-
-Son plantemientos finitos, ordenados 
-
-* **Ejemplo:**
-
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 ### Descripción del Proyecto
 Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis trabajos, códigos y organizadores gráficos sobre los fundamentos de la computación.
@@ -38,6 +29,18 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 2. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
 3. [Ejercicios de Programación](#ejercicios-de-programación)
 4. [Conclusiones ](#conclusiones)
+---
+
+##1. Algoritmos:
+
+* **¿Qué son los Algoritmos?:**
+  Son planteamientos finitos, ordenados 
+
+
+
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 ---
 
