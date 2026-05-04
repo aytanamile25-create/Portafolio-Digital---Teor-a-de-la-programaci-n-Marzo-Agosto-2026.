@@ -78,6 +78,7 @@ Es un sistema formal de comunicación que incluye reglas, símbolos, sintaxis qu
 Es útil para el desarrollo de aplicaciones, avamce tecnológicos y desarrollo de software.
 
 * **Ejemplo:**
+<img width="478" height="374" alt="image" src="https://github.com/user-attachments/assets/45aba901-12e1-4ff0-ad36-45790b4db912" />
 
 ---
 
