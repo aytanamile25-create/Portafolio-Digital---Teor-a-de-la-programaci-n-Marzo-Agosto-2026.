@@ -34,15 +34,25 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 ##1. Algoritmos:
 
 * **¿Qué son los Algoritmos?:**
-  Son planteamientos finitos, ordenados 
-
-
+  Son planteamientos finitos, ordenados y lógicos de instrucciones para resolver porblemas o tareas.
+  Las caracteristicas principales de los algoritmos son los siguientes:
+  Finito: Inicio / Fin
+  Ordenado: Tiene una secuencia lógica
+  Preciso: Instrucciones claras
+  Eficiente: Resolver los problemas de la mejor manera posible
 
 * **Ejemplo:**
 
 ![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 ---
+## 2. Pseudocódigos:
+
+* **¿Qué son los Algoritmos?:**
+  Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real.
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 
 
