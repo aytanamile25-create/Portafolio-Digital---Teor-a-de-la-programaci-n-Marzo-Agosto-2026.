@@ -48,8 +48,8 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 
 Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real. 
 * **Ejemplo:**
+  <img width="365" height="163" alt="image" src="https://github.com/user-attachments/assets/6ade527c-0471-4f9c-86ec-7bfd9c2bd521" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3d82463-4645-4644-8e68-95554b1c92ec" />
 
 ---
 
@@ -58,7 +58,8 @@ Es una representación gráfica que permite visualizar un algoritmo de forma est
 El diagrama de flujo está estructurado por símbolos y flechas a continuación:
 * **Ejemplo:**
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e7695e3-5951-40a2-a964-033159687adf" />
+<img width="122" height="277" alt="image" src="https://github.com/user-attachments/assets/87efede3-5699-4ec9-abcd-e2d5d9cbdcc4" />
+
 
  ---
 
