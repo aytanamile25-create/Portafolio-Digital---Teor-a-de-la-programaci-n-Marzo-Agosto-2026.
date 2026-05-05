@@ -11,6 +11,7 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 1. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
 2. [Ejercicios de Programación](#ejercicios-de-programación)
 3. [Reflexión crítica ](#Reflexióncrítica)
+4. [Declaración de IA ](#Declaración de IA)
 ---
 
 # 1. Algoritmos:
@@ -79,3 +80,5 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 ---
 **Reflexión crítica:**
 Durante la unidad se aprendio lo básico para utilizar programas como pseint, visual studio code. La práctica dentro de clases con el docente ayudo mucho al aprendizaje para comprender mejor y con facilidad ya que veiamos teoria y luego a practica en clases. He concluido que La programación no es solo memorizar comandos, sino desarrollar la capacidad de resolver problemas con eficiencia, comprender la lógica. 
+**Declaración de IA**
+La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo, garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
