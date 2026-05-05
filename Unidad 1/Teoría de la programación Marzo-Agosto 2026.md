@@ -1,23 +1,3 @@
-# Portafolio Digital - Teoría de la Programación
-Bienvenido a mi portafolio de la Unidad 1. Aquí encontrarás mis trabajos y proyectos sobre computación.
-<div align="center">
-
-# UNIVERSIDAD NACIONAL DE LOJA
-## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
-### CARRERA DE COMPUTACIÓN
-
----
-
-# PORTAFOLIO DIGITAL
-## Asignatura: Teoría de la Programación
-
-**Estudiante:** Aytana Salinas Oviedo  
-
-**Docente:** ING. Lissette López Faicán, PhD
-
-**Ciclo:** 1A
-
-**Fecha:** 2026
 
 ---
 
@@ -98,3 +78,4 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 
 ---
 **Reflexión crítica:**
+Durante la unidad se aprendio lo básico para utilizar programas como pseint, visual studio code. La práctica dentro de clases con el docente ayudo mucho al aprendizaje para comprender mejor y con facilidad ya que veiamos teoria y luego a practica en clases. He concluido que La programación no es solo memorizar comandos, sino desarrollar la capacidad de resolver problemas con eficiencia, comprender la lógica. 
