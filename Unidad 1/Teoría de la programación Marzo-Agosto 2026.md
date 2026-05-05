@@ -76,6 +76,7 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 
 7. Ejercicio Resuelto:
 <img width="414" height="362" alt="image" src="https://github.com/user-attachments/assets/8bc440ad-5816-4ec3-912d-d1e3cb65aa1c" />
+<img width="412" height="249" alt="image" src="https://github.com/user-attachments/assets/09bee74f-c7e2-4d76-8676-f64e32b24e87" />
 
 ---
 **Reflexión crítica:**
